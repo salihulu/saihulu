@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/salih-ulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salih-ulu" height="30" width="40" /></a>
 </p>
 
-- 🔭 📌 As a Salesforce Developer with hands-on experience, I have completed two end-to-end projects, including case management on the 𝑺𝒂𝒍𝒆𝒔 and 𝑺𝒆𝒓𝒗𝒊𝒄𝒆 𝑪𝒍𝒐𝒖𝒅.  My technical skills include proficiency in 𝑨𝒑𝒆𝒙, 𝑽𝒊𝒔𝒖𝒂𝒍𝒇𝒐𝒓𝒄𝒆, 𝑳𝒊𝒈𝒉𝒕𝒏𝒊𝒏𝒈 𝑾𝒆𝒃 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕𝒔, and other Salesforce technologies.
+📌 As a Salesforce Developer with hands-on experience, I have completed two end-to-end projects, including case management on the 𝑺𝒂𝒍𝒆𝒔 and 𝑺𝒆𝒓𝒗𝒊𝒄𝒆 𝑪𝒍𝒐𝒖𝒅.  My technical skills include proficiency in 𝑨𝒑𝒆𝒙, 𝑽𝒊𝒔𝒖𝒂𝒍𝒇𝒐𝒓𝒄𝒆, 𝑳𝒊𝒈𝒉𝒕𝒏𝒊𝒏𝒈 𝑾𝒆𝒃 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕𝒔, and other Salesforce technologies.
 
       ✔ Apex, SOQL, SOSL
       ✔ Visualforce, Lightning Components, Salesforce Lightning
