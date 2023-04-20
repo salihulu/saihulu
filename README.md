@@ -34,6 +34,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihulu&show_icons=true&locale=en" alt="salihulu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihulu&" alt="salihulu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihulu&show_icons=true&locale=en" alt="salihulu" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihulu&" alt="salihulu" /></p>
