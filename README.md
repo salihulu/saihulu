@@ -3,7 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/salihulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salihulu" height="30" width="40" /></a>
+<a href="https://trailblazer.me/id/salihulu" target="blank"><img align="center" src="https://ui.trailhead.com/profile/v1.5.0/images/salesforce.svg" alt="salihulu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salih-ulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salih-ulu" height="30" width="40" /></a>
 </p>
 
