@@ -23,8 +23,8 @@
 
 📌 In summary, I am an experienced and expert Salesforce Developer with a creative and energetic approach to problem-solving. I am a team player who thrives in collaborative environments and is always looking for ways to improve my skills and contribute to the success of the team.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/salihulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salihulu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salih-ulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salih-ulu" height="30" width="40" /></a>
 </p>
@@ -34,4 +34,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihulu&show_icons=true&locale=en" alt="salihulu" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihulu&" alt="salihulu" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihulu&" alt="salihulu" /></p>
