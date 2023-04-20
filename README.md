@@ -3,7 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihulu&label=Profile%20views&color=0e75b6&style=flat" alt="salihulu" /> </p>
 
-- 🔭 I’m currently working on **Hotel Managament & Computer Store**
+- 🔭 📌 As a Salesforce Developer with hands-on experience, I have completed two end-to-end projects, including case management on the 𝑺𝒂𝒍𝒆𝒔 and 𝑺𝒆𝒓𝒗𝒊𝒄𝒆 𝑪𝒍𝒐𝒖𝒅.  My technical skills include proficiency in 𝑨𝒑𝒆𝒙, 𝑽𝒊𝒔𝒖𝒂𝒍𝒇𝒐𝒓𝒄𝒆, 𝑳𝒊𝒈𝒉𝒕𝒏𝒊𝒏𝒈 𝑾𝒆𝒃 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕𝒔, and other Salesforce technologies.
+
+      ✔ Apex, SOQL, SOSL
+      ✔ Visualforce, Lightning Components, Salesforce Lightning
+      ✔ Custom Objects, Custom Fields, Custom Settings
+      ✔ Profiles, Roles, Security
+      ✔ Workflow Rules, Approval Processes
+      ✔ Triggers, Test Classes, Batch Apex
+      ✔ REST API, SOAP API
+      ✔ Integration, Deployment, Data Loader
+      ✔ Service Cloud, Sales Cloud, Marketing Cloud
+      ✔ CPQ, MuleSoft, Einstein Analytics
+      ✔ Salesforce Mobile App
+
+📌 But my colleagues would say that my greatest strengths lie beyond technical expertise. They describe me as a great team player, organized multitasker, and effective collaborator who contributes to the success of the group. I am passionate about my work and strive to learn new technologies every day, staying up-to-date with the latest trends and best practices in the industry.
+
+📌 I consider myself tech-savvy and innovative, always seeking to improve my skills and develop creative solutions to complex problems. I have a proven track record of successful project delivery, thanks to my goal-oriented approach, leadership abilities, and strong communication skills.
+
+📌 In summary, I am an experienced and expert Salesforce Developer with a creative and energetic approach to problem-solving. I am a team player who thrives in collaborative environments and is always looking for ways to improve my skills and contribute to the success of the team.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
